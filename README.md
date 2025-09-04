@@ -16,7 +16,7 @@ python subscrub.py /path/to/folder
 
 ### Options   
 --in-place &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Overwrite original files    
---backup &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When --in-place is used, keeps original as .bak 
+--backup &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When --in-place is used, keeps original as .bak   
 --utf8-bom &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Write UTF-8 with BOM (helps some older players)   
 --quiet &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Less console output
 
